@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HoursCalcSimple", "HoursCalcSimple.csproj", "{45E47710-E8D3-4352-BD8C-AFE185041D6C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45E47710-E8D3-4352-BD8C-AFE185041D6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45E47710-E8D3-4352-BD8C-AFE185041D6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45E47710-E8D3-4352-BD8C-AFE185041D6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45E47710-E8D3-4352-BD8C-AFE185041D6C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6D8A436F-880A-40BA-B7F5-E4DE614EC019}
+	EndGlobalSection
+EndGlobal
